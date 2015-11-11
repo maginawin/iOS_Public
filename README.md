@@ -1,1 +1,1 @@
-# For WM iOS demo, take care for her kindly.
+# WM iOS demo, take care for her kindly.
